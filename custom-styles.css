@@ -1,0 +1,4 @@
+.sortable > tbody > tr > .no-data {
+    height: auto;
+    background-color: transparent;
+}
